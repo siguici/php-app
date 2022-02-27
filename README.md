@@ -1,2 +1,2 @@
-# php-app
-A PHP package to facilitate CLI/CGI application creation, command/request routing, argument retrieval, input checking and output styling.
+# PHP Application Interface Manager
+A light framework which offers the basic tools to design interactive interfaces of PHP applications with input/output management and processing of command/request arguments.
